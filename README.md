@@ -21,7 +21,8 @@ SPDX-License-Identifier: CC-BY-4.0
 #######################################################################
 -->
 
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url][![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FRoKrish14%2Fdigital-product-pass.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FRoKrish14%2Fdigital-product-pass?ref=badge_shield)
+
 [![Stargazers][stars-shield]][stars-url]
 [![Apache 2.0 License][license-shield]][license-url-code]
 [![CC-BY-4.0][license-shield-non-code]][license-url-non-code]
@@ -112,6 +113,9 @@ For installing the Digital Product Pass Application please consult our [Intallat
 
 - [Apache-2.0](https://raw.githubusercontent.com/eclipse-tractusx/digital-product-pass/main/LICENSE) for code
 - [CC-BY-4.0](https://spdx.org/licenses/CC-BY-4.0.html) for non-code
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FRoKrish14%2Fdigital-product-pass.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FRoKrish14%2Fdigital-product-pass?ref=badge_large)
 
 ## Notice for Docker Images
 
